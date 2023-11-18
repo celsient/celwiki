@@ -1,4 +1,4 @@
-![poem screenshot.png] ![code screenshot.png]
+<< i tried to embed the screenshots but i couldn't work out how and i got angry at websites so i'm not going to do that. you can see them in this folder. they should be over to the left >>
 
 Taroko Gorge is situated in the North-East of Taiwan, in lands once occupied by the Truku aboriginal people. Today, it is the heart of the Republic of China’s Taroko National Park and the setting of Nick Montfort’s 2009 generative poem, ‘Taroko Gorge’.  
 
